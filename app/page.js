@@ -64,7 +64,7 @@ export default function Home() {
           <div className='ms-4 mb-2'>3. Thanks and removal of obligation</div>
           An example would be:
           <div className='border-start border-gray-600 border-s-2 ps-4 m-4'>
-            I'm a front-end engineer and I saw that you do a lot of front-end work, would you be interested in telling me more about your career? I noticed you contributed to an open source project and that sounds really interesting to me! Thanks for reading this and obviously no pressure!
+            I&apos;m a front-end engineer and I saw that you do a lot of front-end work, would you be interested in telling me more about your career? I noticed you contributed to an open source project and that sounds really interesting to me! Thanks for reading this and obviously no pressure!
           </div>
         </div>
 
