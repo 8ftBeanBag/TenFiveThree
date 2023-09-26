@@ -12,6 +12,9 @@ module.exports = {
         'gradient-conic':
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
+      width: {
+        panel: "55rem"
+      }
     },
     colors: {
       cerulean: '#227c9d',
@@ -20,7 +23,7 @@ module.exports = {
       'floral-white': '#FEF9EF',
       'light-red': '#FE6D73',
       white: 'white '
-    }
+    },
   },
   plugins: [],
 }

@@ -11,7 +11,7 @@ export default function Home() {
           <div><strong>3</strong> Applications</div>
         </div>
       </div>
-      <div className='px-12 py-6 bg-white lg:mx-40 rounded-lg'>
+      <div className='px-12 py-6 bg-white m-auto lg:w-panel rounded-lg'>
         <div>
           <p className='lg:text-xl text-gray font-serif text-center text-cerulean'>Losing your mind on the job hunt?</p>
         </div>
@@ -80,9 +80,9 @@ export default function Home() {
         </div>
       </div>
       
-      <div className='lg:mx-48 pb-12'>
+      <div className='lg:w-panel text-center m-auto pb-12'>
         <p className='text-center font-serif text-xl mt-12 mb-4 text-cerulean'>Thanks!</p>
-        <p className='mx-12'>Thanks for reading and best of luck to you! The job hunt can be exhausting but we can all get through this together.</p>
+        <p className=''>Thanks for reading and best of luck to you! The job hunt can be exhausting but we can all get through this together.</p>
       </div>
     </main>
   )
